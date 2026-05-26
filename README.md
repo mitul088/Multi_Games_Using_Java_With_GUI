@@ -1,3 +1,5 @@
+Note : This repository is an individual project repository I developed locally in February 2024 using java. It was migrated to GitHub in May 2026 for documentation and review purposes.
+
 # MultiGame Using Java
 
 A desktop game launcher built with Java Swing. One application hosts three classic games: Ping Pong, Brick Breaker, and Snake & Ladders.
