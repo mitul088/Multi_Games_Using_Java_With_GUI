@@ -1,0 +1,9 @@
+# Compiled Java
+*.class
+
+# IDE
+.idea/workspace.xml
+
+# OS
+Thumbs.db
+.DS_Store
