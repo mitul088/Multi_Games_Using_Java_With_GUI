@@ -1,4 +1,4 @@
-Note : This repository is an individual project repository I developed locally in February 2024 using java. It was migrated to GitHub in May 2026 for documentation and review purposes.
+Note : This repository is an individual project repository I developed locally in February 2024 using java.
 
 # MultiGame Using Java
 
